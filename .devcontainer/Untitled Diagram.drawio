@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T19:05:19.137Z" agent="5.0 (iPad; CPU OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/94.0.4606.52 Mobile/15E148 Safari/604.1" etag="UGneX8l1b-6avE4esjMW" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T19:08:37.435Z" agent="5.0 (iPad; CPU OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/94.0.4606.52 Mobile/15E148 Safari/604.1" etag="V4D09IP0LK6OV2DYLjRG" version="15.4.1" type="github">
   <diagram id="uaHTxC-ySIg1MWi0-lsI" name="Page-1">
     <mxGraphModel dx="845" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="di2XAjyQTA1PsKkKIKUL-108" value="Calcola" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="di2XAjyQTA1PsKkKIKUL-27">
           <mxGeometry x="527" y="267.5" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="di2XAjyQTA1PsKkKIKUL-115" value="Selezioneremo il campionato è la giornata da calcolare, l’elenco mostrerà soltanto le partite che non sono state già calcolate.&lt;br&gt;Inseriamo il numero di gol nell’apposito input text e spuntiamo la casella di controllo per far calcolare il risultato all’algoritmo.&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;align=left;" vertex="1" parent="di2XAjyQTA1PsKkKIKUL-27">
+        <mxCell id="di2XAjyQTA1PsKkKIKUL-115" value="Selezioneremo il campionato è la giornata da calcolare, l’elenco mostrerà soltanto le partite che non sono state già calcolate.&lt;br&gt;Inseriamo il numero di gol nell’apposito input text e spuntiamo la casella di controllo per far calcolare il risultato all’algoritmo.&lt;br&gt;Quando clicchiamo sul bottone calcola, eseguirà il seguente algoritmo:&lt;br&gt;1- aggiornerà la collection MATCH&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;align=left;" vertex="1" parent="di2XAjyQTA1PsKkKIKUL-27">
           <mxGeometry x="27" y="495" width="570" height="365" as="geometry" />
         </mxCell>
       </root>
